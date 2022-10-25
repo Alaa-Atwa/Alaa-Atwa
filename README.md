@@ -18,8 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@alaa_atwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@alaa_atwa" height="30" width="40" /></a>
-<a href="https://codesandbox.com/alaa atwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alaa atwa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucypmon7pl5jivzrhtf24gqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucypmon7pl5jivzrhtf24gqg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYpmON7PL5jIvzRHtF24gQg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucypmon7pl5jivzrhtf24gqg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alaa-atwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alaa-atwa" height="30" width="40" /></a>
 </p>
 
