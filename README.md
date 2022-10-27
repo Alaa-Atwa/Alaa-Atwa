@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alaa Atwa</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaa-atwa&label=Profile%20views&color=0e75b6&style=flat" alt="alaa-atwa" /> </p>
-
-- 🔭 I’m currently working on **MERN stack in web develpoment**
+- 🌱 I’m currently learning **MERN stack in web develpoment**
 
 - 📝 I regularly write articles on [https://dev.to/alaa_atwa](https://dev.to/alaa_atwa)
 
