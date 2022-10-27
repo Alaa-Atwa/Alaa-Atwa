@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alaa Atwa</h1>
 <h3 align="center">A passionate backend developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaa-atwa&label=Profile%20views&color=0e75b6&style=flat" alt="alaa-atwa" /> </p>
+
 - 🔭 I’m currently working on **MERN stack in web develpoment**
 
-- 🌱 I’m currently learning **data structure**
-
 - 📝 I regularly write articles on [https://dev.to/alaa_atwa](https://dev.to/alaa_atwa)
-
-- 💬 Ask me about **Bash , js , linux , MERN stack**
-
-- 📫 How to reach me **alaa.atwa555@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -18,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@alaa_atwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@alaa_atwa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCYpmON7PL5jIvzRHtF24gQg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucypmon7pl5jivzrhtf24gqg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucypmon7pl5jivzrhtf24gqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucypmon7pl5jivzrhtf24gqg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alaa-atwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alaa-atwa" height="30" width="40" /></a>
 </p>
 
