@@ -3,7 +3,7 @@
 
 <img align='right' style='margin-right:0' src="https://i.ibb.co/L9T62JW/giphy.gif" width='500px' alt="giphy" border="0">
 
-- 🌱 I’m currently learning **MERN stack in web develpoment**
+- 🌱 I’m currently learning **MERN stack**
 - 📝 I regularly write articles on [https://dev.to/alaa_atwa](https://dev.to/alaa_atwa)
 
 <hr/>
