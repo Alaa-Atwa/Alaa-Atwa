@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alaa</h1>
-<h3 align="center">A backend developer</h3>
+<h3 align="center">A python developer</h3>
 
 <img align='right' style='margin-right:0' src="https://i.ibb.co/L9T62JW/giphy.gif" width='500px' alt="giphy" border="0">
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **python**
 - 📝 I regularly write articles on [https://dev.to/alaa_atwa](https://dev.to/alaa_atwa)
 
 <hr/>
