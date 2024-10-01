@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa</h1>
-<h3 align="center">A Data Scientist enthusiast</h3>
+<h3 align="center">A DevOps Engineer</h3>
 
 <img align='right' style='margin-right:0' src="https://i.ibb.co/L9T62JW/giphy.gif" width='500px' alt="giphy" border="0">
 
